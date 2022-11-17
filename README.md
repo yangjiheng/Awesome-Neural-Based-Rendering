@@ -2,6 +2,8 @@
 
 ## Nerual Rendering
 
+**Neural** **rendering** is a new and rapidly emerging field that combines generative machine learning techniques with physical knowledge from computer graphics, e.g., by the integration of differentiable rendering into network training.
+
 | Paper                                                        | Conf      | Author                                                       | Code                                                         |
 | :----------------------------------------------------------- | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [LaTeRF: Label and Text Driven Radiance Fields](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2145_ECCV_2022_paper.php) | ECCV 2022 | Ashkan Mirzaei, Yash Kant, Jonathan Kelly, Igor Gilitschenski | [Github Homepage](https://github.com/ashmrz/LaTeRF)          |

@@ -1,4 +1,4 @@
-# Advances in AI/CV/CG field
+# NeRF Papers
 
 ## Nerual Rendering
 

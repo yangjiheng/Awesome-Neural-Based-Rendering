@@ -1,4 +1,4 @@
-# Neural Based Rendering Projects
+# Awesome Neural Based Rendering Projects
 
 ## NeRF Based Rendering
 

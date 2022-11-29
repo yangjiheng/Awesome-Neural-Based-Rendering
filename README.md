@@ -1,6 +1,6 @@
-# NeRF Papers
+# Neural Based Rendering Projects
 
-## Nerual Rendering
+## NeRF Based Rendering
 
 **Neural** **rendering** is a new and rapidly emerging field that combines generative machine learning techniques with physical knowledge from computer graphics, e.g., by the integration of differentiable rendering into network training.
 

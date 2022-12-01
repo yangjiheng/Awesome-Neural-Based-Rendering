@@ -7,6 +7,7 @@
 | Paper                                                        | Conf         | Author                                                       | Code                                                         |
 | :----------------------------------------------------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [CageNeRF: Cage-based Neural Radiance Fields for Genrenlized 3D Deformation and Animation](https://pengyicong.github.io/CageNeRF/) | NeurIPS 2022 | Yicong Peng, Yichao Yan, Shenqi Liu, Yuhao Cheng, Shanyan Guan, Bowen Pan, Guangtao Zhai, Xiaokang Yang | [Github Homepage](https://github.com/PengYicong/CageNeRF)    |
+| [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2373_ECCV_2022_paper.php) | ECCV 2022 | Shuai Shen, Wanhua Li, Zheng Zhu, Yueqi Duan, Jie Zhou, Jiwen Lu | [Github Homepage](https://github.com/sstzal/DFRF)    |
 | [LaTeRF: Label and Text Driven Radiance Fields](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2145_ECCV_2022_paper.php) | ECCV 2022    | Ashkan Mirzaei, Yash Kant, Jonathan Kelly, Igor Gilitschenski | [Github Homepage](https://github.com/ashmrz/LaTeRF)          |
 | [PS-NeRF: Nerual Inverse Rendering for Multi-View Photometric Stereo](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1832_ECCV_2022_paper.php) | ECCV 2022    | Wenqi Yang, Chaofeng Chen, Zhenfang Chen, Kwan-Yee K. Wong   | [Github Homepage](https://ywq.github.io/psnerf)              |
 | [MoFaNeRF: Morphable Facial Neural Radiance Field](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4505_ECCV_2022_paper.php) | ECCV 2022    | Yiyu Zhuang, Hao Zhu, Xusen Sun, Xun Cao                     | [Github Homepage](https://github.com/zhuhao-nju/mofanerf)    |
@@ -23,6 +24,8 @@
 | [BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-Scale Scene Rendering](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1947_ECCV_2022_paper.php) | ECCV 2022    | Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, Dahua Lin | [Github Homepage](https://github.com/city-super/BungeeNeRF-Jittor) |
 | [ActiveNeRF: Learning Where to See with Uncertainty Estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7175_ECCV_2022_paper.php) | ECCV 2022    | Xuran Pan, Zihang Lai, Shiji Song, Gao Huang                 | [Github Homepage](https://github.com/LeapLabTHU/ActiveNeRF)  |
 |                                                              |              |                                                              |                                                              |
+
+
 
 
 

@@ -1,5 +1,7 @@
 # Awesome Neural Based Rendering Projects
 
+We try to collect all interesting neural based rendering projcets in this repository to get a full-view of the emerging technology. Please submit pull request if you think something is not correct or you have more to share with everyone. Thank you in advance!
+
 ## NeRF Based Rendering
 
 **Neural** **rendering** is a new and rapidly emerging field that combines generative machine learning techniques with physical knowledge from computer graphics, e.g., by the integration of differentiable rendering into network training.
@@ -7,6 +9,7 @@
 | Paper                                                        | Conf         | Author                                                       | Code                                                         | Category |
 | :----------------------------------------------------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [CageNeRF: Cage-based Neural Radiance Fields for Genrenlized 3D Deformation and Animation](https://pengyicong.github.io/CageNeRF/) | NeurIPS 2022 | Yicong Peng, Yichao Yan, Shenqi Liu, Yuhao Cheng, Shanyan Guan, Bowen Pan, Guangtao Zhai, Xiaokang Yang | [Github Homepage](https://github.com/PengYicong/CageNeRF)    | Animation |
+| [Deforming Radiance Fields with Cages](https://xth430.github.io/deforming-nerf/) | ECCV 2022 | Tianhan Wu, Tatsuya | [Github Homepage](https://github.com/xth430/deforming-nerf)    | Animation |
 | [Reinforcement Learning with Neural Radiance Fields](https://dannydriess.github.io/nerf-rl/) | NeurIPS 2022 | Yicong Peng, Yichao Yan, Shenqi Liu, Yuhao Cheng, Shanyan Guan, Bowen Pan, Guangtao Zhai, Xiaokang Yang |     | Reinforcement Learning |
 | [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2373_ECCV_2022_paper.php) | ECCV 2022 | Shuai Shen, Wanhua Li, Zheng Zhu, Yueqi Duan, Jie Zhou, Jiwen Lu | [Github Homepage](https://github.com/sstzal/DFRF)    | Talking Head |
 | [LaTeRF: Label and Text Driven Radiance Fields](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2145_ECCV_2022_paper.php) | ECCV 2022    | Ashkan Mirzaei, Yash Kant, Jonathan Kelly, Igor Gilitschenski | [Github Homepage](https://github.com/ashmrz/LaTeRF)          | Modeling &Rendering |
@@ -28,10 +31,17 @@
 
 
 
-
-
 ## Transformer Based Rendering
 
 | Paper                                                        | Conf      | Author                                                       | Code                                                         | Area |
 | :----------------------------------------------------------- | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [ViewFormer: NeRF-Free Neural Rendering from Few Images Using Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1417_ECCV_2022_paper.php) | ECCV 2022 | Jonáš Kulhánek, Erik Derner, Torsten Sattler, Robert Babuška | [Github Homepage]( https://github.com/jkulhanek/viewformer)  | Rendering |
+
+## Neural Based Rendering Open Source Projects
+
+
+
+| Project name |                       Github homepage                        | Project Description                                          |
+| :----------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
+|  nerfstudio  | [Homepage](https://github.com/nerfstudio-project/nerfstudio) | Nerfstudio provides a simple API that allows for a simplified end-to-end process of creating, training, and testing NeRFs. The library supports a **more interpretable implementation of NeRFs by modularizing each component.** With more modular NeRFs, we hope to create a more user-friendly experience in exploring the technology. Nerfstudio is a contributor-friendly repo with the goal of building a community where users can more easily build upon each other's contributions. |
+
